@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1444201566 source:c:\users\qi\documents\github\staticexample\tank.cpp
+	<iostream>
+	"Tank.h"
+
+1444201111 c:\users\qi\documents\github\staticexample\tank.h
+
+1444202279 source:c:\users\qi\documents\github\staticexample\main.cpp
+	<iostream>
+	"Tank.h"
+	<stdlib.h>
+
